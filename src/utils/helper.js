@@ -1,11 +1,11 @@
 export const NAV = [
     {
         title: "Home",
-        link:"#",
+        link:"/",
     },
     {
-        title: "Service",
-        link: "/service",
+        title: "Product",
+        link: "/product",
     },
     {
         title: "Project",
